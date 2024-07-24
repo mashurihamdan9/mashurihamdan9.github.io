@@ -72,9 +72,9 @@
     <div class="container">
         <div class="info-box">
             <h1>itsmerood</h1>
-            <p>Welcome to the official page of itsmerood. Here you can find all the information about itsmerood's channels and latest updates.</p>
-            <button class="btn" onclick="location.href='https://www.youtube.com/channel/itsmerood'">Visit YouTube Channel</button>
-            <button class="btn" onclick="location.href='https://www.twitter.com/itsmerood'">Follow on Twitter</button>
+            <p>Welcome, I'm Rood</p>
+            <button class="btn" onclick="location.href='https://www.t.me/itsmerood'">UserName</button>
+            <button class="btn" onclick="location.href='https://www.t.me/TeamRood'">Chanel</button>
         </div>
     </div>
 </body>
